@@ -3,8 +3,7 @@
 ## Prerequisite
 
 pip install wetterdienst
-
-install(wetterdienst)
+import(wetterdienst)
 
 ## Introduction
 
@@ -30,7 +29,7 @@ Three main featuers from DWD API: precipitation_height	sunshine_duration	tempera
 
 Temperature: scale 1-10 for each month average
 Sunshine: convert into hours /3600
-Percipitation: One class for no rain 9 for rest
+Percipitation: One class for no rain; 9 for rest
 
 ## States and Station IDs
 
