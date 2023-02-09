@@ -8,7 +8,9 @@ import(wetterdienst)
 
 ## Introduction
 
-This project is part of my first paper using weather data in sales forecasts. Unfortunately, I cannot publish more code yet due to a NDA. There will create a complete repository with all code relvant for replication as soon as possible. Weather data can play an important role in accurately predicting sales, as various weather conditions can impact consumer behavior. The project focuses on daily weather data from Germany, with a particular emphasis on the variables of sunshine, temperature, and rainfall. The data is extracted from the Wetterdienst library (API Deutscher Wetterdienst) using the wetterdienst Python library. The project outlines the steps for obtaining and using the weather data, including the creation of monthly weather scores, the selection of weather stations, and the construction of weather classes for each state in Germany. The project concludes with an example of how the weather data can be used to create machine learning features for sales forecasts.
+This project is part of my first paper using weather data in sales forecasts. Weather data can play an important role in accurately predicting sales, as various weather conditions can impact consumer behavior. The project focuses on daily weather data from Germany, with a particular emphasis on the variables of sunshine, temperature, and rainfall. The data is extracted from the Wetterdienst library (API Deutscher Wetterdienst) using the wetterdienst Python library. The project outlines the steps for obtaining and using the weather data, including the creation of monthly weather scores, the selection of weather stations, and the construction of weather classes for each state in Germany. The project concludes with an example of how the weather data can be used to create machine learning features for sales forecasts.
+
+**Note:** Unfortunately, I cannot publish more code yet due to a NDA. I will create another complete repository with all code relvant for replication as soon as possible. 
 
 ## Background
 
